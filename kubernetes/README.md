@@ -48,6 +48,7 @@ Primeiro, vamos subir um servidor de registry
 
 * docker run -p 5000:5000 registry
 * http://localhost:5000/v2/_catalog
+* http://localhost:5000/v2/hello-node/tags/list
 
 ## Deployando replicas de um frontend
 
@@ -69,7 +70,11 @@ kubectl apply -f https://kubernetes.io/examples/controllers/frontend.yaml
 
 > para testar o load balancer precisa fazer varias requisicoes, depois para um tempo e voltar a fazer
 
-## Deployando
+## Deployando no ArgoCD
+
+```
+kubectl apply -n argocd -f app.yaml
+```
 
 
 
