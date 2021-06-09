@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-node
-        image: localhost:5000/hello-node
+        image: localhost:5000/hello-node:1.0.0
         ports:
         - containerPort: 3000
