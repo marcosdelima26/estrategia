@@ -1,0 +1,10 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 ®îÍ¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦ïÕğúÿÿÿÿ8âïªé¤.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÚî8ö€Êä¤.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ8ˆÈä¤.
+G
+java:S1128"+Remove this unused import 'main.Principal'.(¥ï	8ÕÂ×è¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½¤Í«øÿÿÿÿ8ĞªÇä¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úã’Øøÿÿÿÿ8àÛÇä¤.
