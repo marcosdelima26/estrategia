@@ -76,6 +76,24 @@ kubectl apply -f https://kubernetes.io/examples/controllers/frontend.yaml
 kubectl apply -n argocd -f app.yaml
 ```
 
+Exemplos em: https://github.com/argoproj/argocd-example-apps
+
+
+* Onde fica o arquivo app.yaml para configuração do ARGO?
+
+Este arquivo deve ficar no repositório dos helmcharts
+
+Exemplo: 
+https://argo-cd.readthedocs.io/en/stable/operator-manual/cluster-bootstrapping/
+
+
+* Sugestão de workflow de CI
+
+https://argo-cd.readthedocs.io/en/stable/user-guide/ci_automation/
+
+* badges
+
+https://github.com/argoproj/argo-cd/blob/master/docs/operator-manual/argocd-cm.yaml#L14
 
 
 # Swarm
