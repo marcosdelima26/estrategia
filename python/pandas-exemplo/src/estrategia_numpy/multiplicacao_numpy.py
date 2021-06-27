@@ -28,3 +28,6 @@ if __name__ == "__main__":
     print(num_c.dtype)
     print(num_c.itemsize)
     print(num_c.data)
+
+
+

@@ -8,6 +8,8 @@ pytest = "*"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
+scipy = "*"
+sklearn = "*"
 
 [dev-packages]
 
