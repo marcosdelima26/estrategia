@@ -6,7 +6,6 @@ import algoritmos.Ordenador;
 @Habilitado
 public class BubbleSort extends Ordenador {
 
-
     public BubbleSort(boolean impressao) {
         super(impressao);
     }

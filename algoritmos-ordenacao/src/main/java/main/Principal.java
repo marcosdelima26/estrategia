@@ -7,7 +7,7 @@ public class Principal {
 
     public static void main(String[] args) {
 
-        Gerador gerador = new Gerador(10);
+        Gerador gerador = new Gerador(500);
         Executor executor = new Executor(false);
 
         System.out.println("====================PIOR CASO================");

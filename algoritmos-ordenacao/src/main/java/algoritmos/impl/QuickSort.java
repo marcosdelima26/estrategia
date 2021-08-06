@@ -3,7 +3,7 @@ package algoritmos.impl;
 import algoritmos.Habilitado;
 import algoritmos.Ordenador;
 
-@Habilitado
+
 public class QuickSort extends Ordenador {
 
 
